@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MERN Student Management System
 
 A simple MERN Stack project created for a Vercel hosting experiment.
@@ -175,3 +176,6 @@ PUT /api/students/:id
 ```text
 DELETE /api/students/:id
 ```
+=======
+# mernstack
+>>>>>>> origin/main
