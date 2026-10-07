@@ -1,0 +1,27 @@
+Vercel Hosting Experiment
+
+Aim:
+To deploy a MERN Stack web application using Vercel.
+
+Software/Services:
+1. Visual Studio Code
+2. Node.js
+3. MongoDB Atlas
+4. GitHub
+5. Vercel
+
+Procedure:
+1. Create and test the MERN application locally.
+2. Create a MongoDB Atlas database.
+3. Add the MongoDB connection string to the backend .env file.
+4. Push the project to GitHub.
+5. Import the repository into Vercel.
+6. Deploy the server using the server directory as the Root Directory.
+7. Add MONGO_URI as a Vercel environment variable.
+8. Deploy the client using the client directory as the Root Directory.
+9. Add VITE_API_URL with the deployed backend URL followed by /api.
+10. Update CLIENT_URL in the backend with the deployed frontend URL.
+11. Test Add, View, Edit and Delete operations.
+
+Expected Result:
+The MERN Student Management System is successfully hosted online using Vercel, with React as the frontend, Express/Node.js as the backend, and MongoDB Atlas as the database.
